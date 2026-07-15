@@ -6,28 +6,23 @@ Ledger Desktop is local-first accounting software for `.ledger` company files. Y
 
 ## Current Release
 
-Current stable version: `20260715.170325-7a59811`
+Download the latest Ledger Desktop installer from:
 
-Download the current installer ZIP:
-
-[LedgerDesktopInstaller-20260715.170325-7a59811-win-x64.zip](https://github.com/rrmcmurry/Ledger.Downloads/releases/download/ledger-desktop-20260715.170325-7a59811/LedgerDesktopInstaller-20260715.170325-7a59811-win-x64.zip)
-
-SHA-256:
-
-```text
-b4fd4e1017e97a36dc8669873a72dbd542e3fce32d3a67b70bb149284307e18f
-```
+[Latest Ledger Desktop release](https://github.com/rrmcmurry/Ledger.Downloads/releases/latest)
 
 Machine-readable update metadata is published at:
 
 [stable/latest.json](stable/latest.json)
 
+The automatically generated GitHub "Source code" archives on release pages contain this public downloads metadata repository, not the private Ledger Desktop application source code.
+
 ## Installation
 
-1. Download the current installer ZIP above.
-2. Extract the ZIP to a normal folder, such as Downloads or Desktop.
-3. Open PowerShell in the extracted folder.
-4. Run:
+1. Open the latest release link above.
+2. Download the `LedgerDesktopInstaller-...-win-x64.zip` asset.
+3. Extract the ZIP to a normal folder, such as Downloads or Desktop.
+4. Open PowerShell in the extracted folder.
+5. Run:
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File .\Install-LedgerDesktop.ps1 -Launch
