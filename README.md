@@ -6,16 +6,16 @@ Ledger Desktop is local-first accounting software for `.ledger` company files. Y
 
 ## Current Release
 
-Current stable version: `20260715.154950-8b298d3`
+Current stable version: `20260715.161455-6ffda6b`
 
 Download the current installer ZIP:
 
-[LedgerDesktopInstaller-20260715.154950-8b298d3-win-x64.zip](https://github.com/rrmcmurry/Ledger.Downloads/releases/download/ledger-desktop-20260715.154950-8b298d3/LedgerDesktopInstaller-20260715.154950-8b298d3-win-x64.zip)
+[LedgerDesktopInstaller-20260715.161455-6ffda6b-win-x64.zip](https://github.com/rrmcmurry/Ledger.Downloads/releases/download/ledger-desktop-20260715.161455-6ffda6b/LedgerDesktopInstaller-20260715.161455-6ffda6b-win-x64.zip)
 
 SHA-256:
 
 ```text
-8555e76552f6be3560f80a0242de9b5cd5fcafbfe0fe4db61578ec0528eb5522
+2ee25ba0ce9c25105f5d87991c0e59fb159d79cbfe2be2c73656734b4a724440
 ```
 
 Machine-readable update metadata is published at:
