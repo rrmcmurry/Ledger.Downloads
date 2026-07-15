@@ -14,8 +14,6 @@ Machine-readable update metadata is published at:
 
 [stable/latest.json](stable/latest.json)
 
-The automatically generated GitHub "Source code" archives on release pages contain this public downloads metadata repository, not the private Ledger Desktop application source code.
-
 ## Installation
 
 1. Open the latest release link above.
