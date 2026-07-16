@@ -1,8 +1,8 @@
-# Ledger Desktop Downloads
+﻿# Ledger Desktop Downloads
 
 This repository hosts public download metadata for Ledger Desktop.
 
-Ledger Desktop is local-first accounting software for `.ledger` company files. You may install it and open ledger files in read-only mode without a license key. Creating, editing, or saving accounting data requires a valid trial or paid license activation.
+Ledger Desktop is local-first accounting software for .ledger company files. You may install it and open ledger files in read-only mode without a license key. Creating, editing, or saving accounting data requires a valid trial or paid license activation.
 
 ## Current Release
 
@@ -17,26 +17,26 @@ Machine-readable update metadata is published at:
 ## Installation
 
 1. Open the latest release link above.
-2. Download the `LedgerDesktopInstaller-...-win-x64.zip` asset.
+2. Download the LedgerDesktopInstaller-...-win-x64.zip asset.
 3. Extract the ZIP to a normal folder, such as Downloads or Desktop.
 4. Open PowerShell in the extracted folder.
 5. Run:
 
-```powershell
+``powershell
 powershell -ExecutionPolicy Bypass -File .\Install-LedgerDesktop.ps1 -Launch
-```
+``
 
 The installer copies Ledger Desktop to:
 
-```text
+``text
 %LOCALAPPDATA%\Ledger\Desktop
-```
+``
 
-It also creates shortcuts and registers `.ledger` files to open with Ledger Desktop.
+It also creates shortcuts and registers .ledger files to open with Ledger Desktop.
 
 ## Licensing
 
-Ledger Desktop may be installed and used to open `.ledger` files in read-only mode without a license key. This is intentional: users should not be locked out of viewing their own accounting records.
+Ledger Desktop may be installed and used to open .ledger files in read-only mode without a license key. This is intentional: users should not be locked out of viewing their own accounting records.
 
 Editing and saving requires a valid license or trial activation. During early testing, trial keys are issued manually. Request a trial key by contacting [rrmcmurry](https://github.com/rrmcmurry) on GitHub.
 
@@ -44,12 +44,18 @@ Activation contacts the Ledger licensing service once and installs a signed, mac
 
 ## Data Privacy Posture
 
-Ledger Desktop works with local `.ledger` files. Public downloads and licensing services are not cloud backup, cloud sync, or hosted ledger services. Do not upload private client ledger files here.
+Ledger Desktop works with local .ledger files. Public downloads and licensing services are not cloud backup, cloud sync, or hosted ledger services. Do not upload private client ledger files here.
 
-You are responsible for choosing where your `.ledger` files live and for maintaining your own backups.
+You are responsible for choosing where your .ledger files live and for maintaining your own backups.
 
 ## License Terms
 
-See [LICENSE.txt](LICENSE.txt).
+See the current legal drafts:
+
+- [Ledger End User License Agreement](Legal/EULA.md)
+- [Ledger Privacy Policy](Legal/PrivacyPolicy.md)
+- [Ledger License Summary](Legal/LicenseSummary.md)
+
+These documents are early attorney-review drafts and may be revised before commercial sale.
 
 Ledger Desktop is proprietary software by Robert McMurry. A formal McMurry Software publishing identity may replace this notice later.
