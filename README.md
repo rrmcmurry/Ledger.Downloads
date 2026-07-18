@@ -34,6 +34,8 @@ The installer copies Ledger Desktop to:
 
 It also creates shortcuts and registers Ledger company files to open with Ledger Desktop.
 
+The installer also places Ledger Demo.ledger in your Documents\Ledger folder. Updates preserve an existing copy so any changes you make to the demo are not overwritten.
+
 ## Licensing
 
 Ledger Desktop may be installed and used to open ledger files in read-only mode without a license key. This is intentional: users should not be locked out of viewing their own accounting records.
