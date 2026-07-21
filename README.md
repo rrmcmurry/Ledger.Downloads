@@ -34,7 +34,7 @@ The installer copies Ledger Desktop to:
 
 It also creates shortcuts and registers Ledger company files to open with Ledger Desktop.
 
-The installer also places Ledger Demo.ledger in your Documents\Ledger folder. Updates preserve an existing copy so any changes you make to the demo are not overwritten.
+The installer also places Ledger Demo.ledger beside the installed app and adds it to Ledger's recent-files list. Updates preserve an existing copy so any changes you make to the demo are not overwritten. The installer does not write the demo into your Documents folder.
 
 ## Licensing
 
