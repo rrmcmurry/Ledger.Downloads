@@ -3,7 +3,7 @@
   "productVersion": "2026",
   "channel": "stable",
   "version": "20260723.003412-9feca45",
-  "publishedAt": "2026-07-23T04:34:11.9240942Z",
+  "publishedAt": "2026-07-23T04:35:34.3796500Z",
   "package": {
     "kind": "installer-zip",
     "fileName": "LedgerDesktopInstaller-20260723.003412-9feca45-win-x64.zip",
@@ -28,5 +28,5 @@
     "installScript": "Install-LedgerDesktop.ps1",
     "manifestVersion": 1
   },
-  "notes": "### Changed\n\n- Balance Sheet and Financial Summary equity sections now present their calculated components directly under Equity instead of wrapping them in Beginning Equity and Current Period Equity Activity groups. Ledger's equity calculation rules are unchanged, and amount underlines now follow the final displayed statement structure."
+  "notes": "### Added\n\n- Added a Cash Flow Statement built through Custom Summary, with Operating, Investing, and Financing sections, beginning and ending cash balances, monthly and comparative columns, drilldowns, and estimated-transaction support.\n- Added a normally hidden Reconciliation Difference row that appears when filters or classifications prevent the statement from reconciling.\n\n### Changed\n\n- Credit card accounts now default to the Financing cash-flow designation; account-level overrides remain available.\n- Balance Sheet and Financial Summary equity sections present calculated components directly under Equity without changing Ledger's equity calculation rules."
 }
