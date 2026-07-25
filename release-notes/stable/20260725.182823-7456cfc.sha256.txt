@@ -1,0 +1,1 @@
+a65dffbb61dc513f7ce0ebe475349b304adda2332c8425711071518cb6db2854  LedgerDesktopInstaller-20260725.182823-7456cfc-win-x64.zip

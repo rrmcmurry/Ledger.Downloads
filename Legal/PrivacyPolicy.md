@@ -1,6 +1,6 @@
 # Ledger Privacy Policy
 
-Effective date: July 15, 2026
+Effective date: July 25, 2026
 
 This Privacy Policy explains how the provider of The Ledger software ("Provider," "we," "us," or "our") collects, uses, shares, and protects information related to Ledger desktop accounting software, licensing, updates, downloads, support, websites, and related services.
 
@@ -39,6 +39,12 @@ When Ledger or a user checks for updates or downloads installers, we or our host
 If you contact us, submit feedback, request support, report bugs, send screenshots, send logs, or provide sample files, we may collect the information you choose to provide.
 
 Do not send ledger files, client data, payroll data, bank data, tax data, personally identifiable information, or other confidential information unless we specifically request it and you decide it is appropriate to share. You are responsible for removing or masking sensitive information before sending support materials.
+
+### Optional Online Banking
+
+Ledger does not contact a bank-data provider unless you choose to configure or use online banking. When you connect SimpleFin, Ledger sends the one-time Setup Token directly to the HTTPS claim address encoded by that token, stores the returned Access URL encrypted for the current Windows account, and later sends authenticated account-data requests directly from your computer to SimpleFin.
+
+We do not route your SimpleFin credentials, account data, or downloaded transactions through a Ledger-operated server. Provider credentials and normalized bank-feed files stay in local application data and are not stored inside `.ledger` files.
 
 ### Website Information
 
@@ -111,6 +117,8 @@ You may choose not to activate Ledger online. Ledger may provide offline activat
 
 You may choose not to send support files or feedback. If you do send materials, you may request deletion, but we may retain copies where required for legal, security, accounting, audit, dispute, or backup purposes.
 
+You may choose not to configure online banking. If you connect and link a SimpleFin account, Ledger may contact SimpleFin when an opened ledger's saved feed is more than a few hours old. You can disconnect SimpleFin from Online Banking Settings to remove the saved local Access URL.
+
 You may contact us to request access, correction, or deletion of certain personal information associated with licensing, purchases, or support. We may need to verify your identity and may deny or limit requests where allowed or required by law.
 
 ## 9. Children's Privacy
@@ -138,4 +146,3 @@ Provider contact:
 [Email address]
 
 [Website]
-
