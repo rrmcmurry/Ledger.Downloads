@@ -1,1 +1,0 @@
-45ac082e3a1a356f8b0e8a534bbdcf8d3be919f0bf48ea7d5efe29863ed11cd3  LedgerDesktopInstaller-20260715.203422-6bbe54e-win-x64.zip

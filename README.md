@@ -1,6 +1,6 @@
 # Ledger Desktop Downloads
 
-This repository hosts public download metadata for Ledger Desktop.
+This repository hosts signed public releases for The Ledger.
 
 Ledger Desktop is local-first accounting software for Ledger company files. You may install it and open ledger files in read-only mode without a license key. Creating, editing, or saving accounting data requires a valid trial or paid license activation.
 
@@ -10,37 +10,26 @@ Download the latest Ledger Desktop installer from:
 
 [Latest Ledger Desktop release](https://github.com/rrmcmurry/Ledger.Downloads/releases/latest)
 
-Machine-readable update metadata is published at:
-
-[stable/latest.json](stable/latest.json)
-
 ## Installation
 
 1. Open the latest release link above.
-2. Download the LedgerDesktopInstaller-...-win-x64.zip asset.
-3. Extract the ZIP to a normal folder, such as Downloads or Desktop.
-4. Open PowerShell in the extracted folder.
-5. Run:
+2. Download `McMurrySoftware.TheLedger-stable-Setup.exe`.
+3. Run the signed installer.
 
-~~~powershell
-powershell -ExecutionPolicy Bypass -File .\Install-LedgerDesktop.ps1 -Launch
-~~~
+The installer creates Windows shortcuts, registers Ledger company files, and
+installs the built-in updater. Future releases are downloaded, verified, and
+applied through The Ledger without PowerShell or execution-policy changes.
 
-The installer copies Ledger Desktop to:
-
-~~~text
-%LOCALAPPDATA%\Ledger\Desktop
-~~~
-
-It also creates shortcuts and registers Ledger company files to open with Ledger Desktop.
-
-The installer also places Ledger Demo.ledger beside the installed app and adds it to Ledger's recent-files list. Updates preserve an existing copy so any changes you make to the demo are not overwritten. The installer does not write the demo into your Documents folder.
+The replaceable application is installed under
+`%LOCALAPPDATA%\McMurrySoftware.TheLedger`. Permanent licenses, settings,
+online-banking data, and other machine/user state remain separately under
+`%LOCALAPPDATA%\McMurrySoftware\TheLedger`.
 
 ## Licensing
 
 Ledger Desktop may be installed and used to open ledger files in read-only mode without a license key. This is intentional: users should not be locked out of viewing their own accounting records.
 
-Editing and saving requires a valid license or trial activation. During early testing, trial keys are issued manually. Request a trial key by contacting [rrmcmurry](https://github.com/rrmcmurry) on GitHub.
+Editing and saving requires a valid license or 30-day trial activation.
 
 Activation contacts the Ledger licensing service once and installs a signed, machine-bound certificate on your computer. After activation, Ledger can verify the certificate locally without ongoing internet access.
 
@@ -58,6 +47,6 @@ See the current legal drafts:
 - [Ledger Privacy Policy](Legal/PrivacyPolicy.md)
 - [Ledger License Summary](Legal/LicenseSummary.md)
 
-These documents are early attorney-review drafts and may be revised before commercial sale.
+These documents remain subject to revision.
 
 Ledger Desktop is proprietary software by Robert McMurry. A formal McMurry Software publishing identity may replace this notice later.
