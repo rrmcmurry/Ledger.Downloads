@@ -1,12 +1,10 @@
 # Ledger End User License Agreement
 
-Effective date: July 15, 2026
+Effective date: July 29, 2026
 
-This End User License Agreement ("Agreement") is a legal agreement between you and the provider of The Ledger software ("Provider," "we," "us," or "our") for the Ledger desktop accounting software, related installers, updates, documentation, license certificates, and supporting services (collectively, "Ledger" or the "Software").
+This End User License Agreement ("Agreement") is a legal agreement between you and Robert McMurry, an individual doing business as McMurry Software in Tennessee ("Provider," "we," "us," or "our"), for The Ledger desktop accounting software, related installers, updates, documentation, license certificates, and supporting services (collectively, "Ledger" or the "Software").
 
-This draft is intended for attorney review before commercial use. Replace Provider identity, address, contact information, governing law, and other business details before publication.
-
-By installing, activating, accessing, or using Ledger, you agree to this Agreement. If you do not agree, do not install, activate, access, or use Ledger.
+By purchasing, installing, activating, accessing, or using Ledger, or by electronically indicating your acceptance, you agree to this Agreement. If you accept this Agreement for an organization, you represent that you have authority to bind that organization, and "you" includes that organization. If you do not agree, do not purchase, install, activate, access, or use Ledger.
 
 ## 1. Plain-English Summary
 
@@ -118,7 +116,7 @@ Support may exclude custom reporting, data cleanup, bookkeeping, tax advice, pay
 
 License fees, if any, are due according to the payment terms stated at purchase. You are responsible for taxes, duties, bank fees, chargebacks, and other amounts associated with your purchase except to the extent Provider is legally required to collect and remit them.
 
-Refunds, if any, are provided only according to Provider's refund policy or a separate written agreement. Provider may suspend or revoke licenses for fraud, chargebacks, nonpayment, abuse, violation of this Agreement, or unlawful use.
+Refunds are governed by the [Ledger Refund Policy](RefundPolicy.md) in effect at the time of purchase or by a separate written agreement. The Refund Policy is incorporated into this Agreement. Provider may suspend or revoke licenses for fraud, chargebacks, nonpayment, abuse, violation of this Agreement, or unlawful use.
 
 ## 14. Confidentiality and Sensitive Data
 
@@ -178,13 +176,13 @@ This Agreement is governed by the laws of the State of Tennessee, without regard
 
 Subject to any mandatory law to the contrary, the state and federal courts located in Tennessee will have exclusive jurisdiction over disputes arising out of or related to this Agreement or Ledger, and each party consents to personal jurisdiction and venue in those courts.
 
-Attorney note: confirm preferred entity, venue, arbitration/class waiver strategy, consumer-law posture, and state-specific enforceability before publication.
-
 ## 22. Changes to this Agreement
 
-Provider may update this Agreement from time to time. The updated version will be effective when posted or otherwise made available, unless a later effective date is stated. If a change materially affects your rights or obligations, Provider may provide notice through the Software, website, release notes, email, checkout, activation process, or other reasonable means.
+Provider may update this Agreement from time to time. Each version will state its effective date. An updated Agreement applies to purchases made, licenses first activated, or updates or new versions accepted on or after its effective date.
 
-Your continued use of Ledger after the effective date of an updated Agreement means you accept the updated Agreement. If you do not agree to the updated Agreement, you must stop using Ledger except to the extent Ledger permits read-only access to your files.
+If a change materially affects your rights or obligations, Provider will provide reasonable notice through the Software, website, release notes, email, checkout, activation process, or another reasonable means. Provider may require you to affirmatively accept an updated Agreement before installing or using an update, activating a new license, or using a new version. If you decline updated terms, you may continue using a previously installed and licensed version under the Agreement that applied to it, where technically and legally possible, but you may not be entitled to the affected update, service, activation, or new version. Read-only access remains subject to Sections 5 and 15.
+
+An updated Agreement does not retroactively reduce the perpetual license rights already granted for a purchased version unless you affirmatively accept the updated Agreement or the change is required by applicable law.
 
 ## 23. Entire Agreement
 
@@ -194,13 +192,9 @@ If any provision is unenforceable, the remaining provisions remain in effect. Pr
 
 ## 24. Contact
 
-Provider contact:
+- Robert McMurry, doing business as McMurry Software
+- Tennessee, United States
+- [https://mcmurrysoftware.com](https://mcmurrysoftware.com)
 
-[Provider legal name]
-
-[Mailing address]
-
-[Email address]
-
-[Website]
+Use the contact method provided with your purchase or the current instructions published at [https://mcmurrysoftware.com/support](https://mcmurrysoftware.com/support). Licensed users may also use **Help > Submit Feedback** within Ledger. Do not include confidential ledger, client, payroll, tax, or banking data in an ordinary request.
 

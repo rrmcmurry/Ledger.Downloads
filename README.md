@@ -40,12 +40,11 @@ You are responsible for choosing where your ledger files live and for maintainin
 
 ## License Terms
 
-See the current legal drafts:
+The current legal documents are:
 
 - [Ledger End User License Agreement](Legal/EULA.md)
 - [Ledger Privacy Policy](Legal/PrivacyPolicy.md)
+- [Ledger Refund Policy](Legal/RefundPolicy.md)
 - [Ledger License Summary](Legal/LicenseSummary.md)
 
-These documents remain subject to revision.
-
-Ledger Desktop is proprietary software by Robert McMurry. A formal McMurry Software publishing identity may replace this notice later.
+The Ledger is proprietary software provided by Robert McMurry, doing business as McMurry Software.

@@ -1,6 +1,6 @@
 # Ledger License Summary
 
-Effective date: July 15, 2026
+Effective date: July 29, 2026
 
 This is a plain-English summary of the Ledger license model. It is not a substitute for the full End User License Agreement. If this summary conflicts with the EULA, the EULA controls.
 
@@ -65,13 +65,15 @@ Updates may include bug fixes, security fixes, improvements, and new features. S
 
 Users should back up ledger files before installing updates.
 
+McMurry Software may require affirmative acceptance of updated license terms before installing an update or using a new version. Declining updated terms does not retroactively cancel perpetual rights already granted for the purchased version, but the user may not be entitled to the affected update, service, activation, or new version.
+
 ## Local Data and Privacy
 
 Ledger is local-first. Your ledger files stay where you put them.
 
 We do not want your ledger files. We do not provide cloud backup or cloud ledger hosting as part of the normal product.
 
-The licensing server may receive activation information, license keys, product/version information, and machine-bound activation request data. It should not receive your accounting transactions, payroll records, bank statements, tax filings, customer lists, vendor lists, or ledger database files during ordinary activation.
+The licensing server receives activation information, license keys, product/version information, and machine-bound activation request data. It does not receive your accounting transactions, payroll records, bank statements, tax filings, customer lists, vendor lists, or ledger database files during ordinary activation.
 
 ## What Users Are Responsible For
 
@@ -90,17 +92,13 @@ Users are responsible for:
 
 Ledger is a tool. It is not an accountant, lawyer, payroll company, auditor, tax preparer, or compliance officer.
 
-## Practical Placement
+## Refunds
 
-This summary should appear anywhere a short explanation helps:
+An unactivated license may be refunded if the purchaser requests the refund within 14 calendar days after purchase. Except where applicable law requires otherwise, a purchase is final after activation because the resulting perpetual offline certificate cannot reliably be retrieved from an offline computer. Duplicate charges and failures to deliver the license will be corrected.
 
-- website pricing or download page;
-- license purchase page;
-- installer;
-- activation page;
-- admin/customer portal;
-- public downloads README; and
-- support emails.
+See the [Refund Policy](RefundPolicy.md) for the complete rules.
 
-The full EULA and Privacy Policy should be linked from the same places.
+## Controlling Documents
+
+This summary is for convenience. The [End User License Agreement](EULA.md), [Privacy Policy](PrivacyPolicy.md), and [Refund Policy](RefundPolicy.md) are the operative documents. The EULA controls if this summary conflicts with it.
 
