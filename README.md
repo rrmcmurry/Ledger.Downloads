@@ -8,21 +8,20 @@ Ledger Desktop is local-first accounting software for Ledger company files. You 
 
 Download the latest Ledger Desktop installer from:
 
-[Latest Ledger Desktop release](https://github.com/rrmcmurry/Ledger.Downloads/releases/latest)
+[Download The Ledger for Windows](https://github.com/rrmcmurry/Ledger.Downloads/releases/latest/download/McMurrySoftware.TheLedger-stable-Setup.exe)
 
 ## Installation
 
-1. Open the latest release link above.
-2. Download `McMurrySoftware.TheLedger-stable-Setup.exe`.
-3. Run the signed installer.
+1. Download `McMurrySoftware.TheLedger-stable-Setup.exe`.
+2. Run the signed installer.
 
 The installer creates Windows shortcuts, registers Ledger company files, and
 installs the built-in updater. Future releases are downloaded, verified, and
-applied through The Ledger by going to Help > Check for Updates
+applied through The Ledger by going to Help > Check for Updates.
 
-The application is installed / updated under
-`%LOCALAPPDATA%\McMurrySoftware.TheLedger`. 
-Settings, and other machine/user state remain under
+The application is installed and updated under
+`%LOCALAPPDATA%\McMurrySoftware.TheLedger`.
+Settings and other machine/user state remain under
 `%LOCALAPPDATA%\McMurrySoftware\TheLedger`.
 
 ## Licensing
