@@ -1,175 +1,36 @@
-Ledger Desktop Proprietary License and Evaluation Terms
-Version 0.1 - Early Testing Terms
+THE LEDGER PROPRIETARY SOFTWARE NOTICE
 
-IMPORTANT: Ledger Desktop is proprietary software. It is not open source software.
+Copyright (c) 2026 Robert McMurry, doing business as McMurry Software.
+All rights reserved.
 
-By downloading, installing, copying, or using Ledger Desktop, you agree to
-these terms. If you do not agree, do not install or use Ledger Desktop.
+The Ledger is proprietary software. It is not open source software. No right
+to copy, modify, redistribute, sublicense, resell, reverse engineer, or create
+derivative works is granted except as expressly stated in the controlling End
+User License Agreement or as required by applicable law.
 
-1. Parties and Software
+Downloading, installing, purchasing, activating, accessing, or using The
+Ledger is governed by the current customer legal documents:
 
-"Ledger Desktop" means the Ledger Desktop application, installer scripts,
-included executable files, update manifests, documentation, and related files
-published by Robert McMurry or a later McMurry Software publishing entity.
+End User License Agreement:
+https://github.com/rrmcmurry/Ledger.Downloads/blob/main/Legal/EULA.md
 
-"You" means the person or organization downloading, installing, or using Ledger
-Desktop.
+Privacy Policy:
+https://github.com/rrmcmurry/Ledger.Downloads/blob/main/Legal/PrivacyPolicy.md
 
-2. Ownership
+Refund Policy:
+https://github.com/rrmcmurry/Ledger.Downloads/blob/main/Legal/RefundPolicy.md
 
-Ledger Desktop is owned by Robert McMurry unless and until ownership is formally
-assigned to another McMurry Software publishing entity. All rights not expressly
-granted in these terms are reserved.
+License Summary:
+https://github.com/rrmcmurry/Ledger.Downloads/blob/main/Legal/LicenseSummary.md
 
-3. Read-Only Viewing Permission
+This file is a proprietary-software notice, not a separate license agreement.
+If this notice conflicts with the End User License Agreement, the End User
+License Agreement controls.
 
-You may download, install, and use Ledger Desktop without a license key for the
-limited purpose of opening and viewing `.ledger` files in read-only mode.
+Third-party components included with The Ledger remain subject to their own
+license terms.
 
-This permission is intended to let users, accountants, clients, auditors, and
-other recipients inspect ledger files without being locked out of accounting
-records. It does not grant permission to modify, save, automate, bypass, or
-extend Ledger Desktop.
-
-4. Trial and Paid License Rights
-
-Creating, editing, deleting, importing, posting, saving, or otherwise modifying
-accounting data through Ledger Desktop requires a valid trial or paid license.
-
-License keys and trial keys may be limited by product, product year, product
-version, module, update channel, activation count, machine identity, expiration
-date, or other entitlement rules.
-
-Unless separate written terms say otherwise, a license key is intended for use
-by one user on that user's own workstations. The activation system may allow a
-small number of workstation activations for convenience, but that convenience
-does not authorize seat sharing, office-wide use, resale, rental, sublicensing,
-or deployment beyond the licensed user or organization.
-
-5. Activation and Local Certificates
-
-Ledger Desktop may contact a licensing service to activate a license or trial.
-Activation may create a machine-bound certificate that allows Ledger Desktop to
-verify license status locally after activation.
-
-You may not falsify activation requests, alter machine-bound certificates,
-reuse certificates on other machines, bypass activation limits, defeat trial
-expiration, or interfere with license enforcement.
-
-6. Restrictions
-
-Except where applicable law gives you a right that cannot be waived, you may
-not:
-
-- reverse engineer, decompile, disassemble, or attempt to derive the source
-  code, file formats, license formats, signing keys, activation logic, or
-  internal design of Ledger Desktop;
-- remove, alter, or bypass license checks, read-only controls, activation
-  controls, signatures, certificates, notices, or update checks;
-- redistribute Ledger Desktop, installer packages, license keys, trial keys, or
-  activation certificates except through download locations authorized by
-  Robert McMurry or a later McMurry Software publishing entity;
-- sell, rent, lease, sublicense, host, provide as a service, or make Ledger
-  Desktop available to third parties without written permission;
-- use Ledger Desktop to build, train, benchmark, or improve a competing product
-  without written permission;
-- use Ledger Desktop unlawfully or in a way that infringes another person's
-  rights.
-
-7. Updates
-
-Updates may be provided through public release packages, update manifests,
-manual downloads, or other channels. A license may allow updates only for a
-particular product, product year, product version, module, or update period.
-
-Ledger Desktop is not guaranteed to receive updates forever. Future versions,
-modules, or product years may require a separate license.
-
-8. No Hosted Ledger Service
-
-Ledger Desktop is designed to work with local `.ledger` files. The public
-download repository and licensing service are not cloud backup, cloud sync,
-hosted accounting, or managed data services.
-
-Do not upload private ledger files, client accounting files, confidential
-business records, payroll records, tax records, bank data, or other sensitive
-data to this repository or to any licensing endpoint.
-
-You are responsible for storing, protecting, transmitting, and backing up your
-own ledger files.
-
-9. Feedback
-
-If you send comments, bug reports, suggestions, ideas, screenshots, examples,
-or other feedback about Ledger Desktop, you grant Robert McMurry and any later
-McMurry Software publishing entity a perpetual, worldwide, royalty-free right
-to use that feedback to improve, document, support, market, and commercialize
-Ledger Desktop without owing compensation.
-
-Do not include confidential client data, private ledger files, bank data,
-payroll data, tax data, Social Security numbers, account numbers, or other
-sensitive information in feedback.
-
-10. Third-Party Components
-
-Ledger Desktop may include or depend on third-party components that are subject
-to their own license terms. Those third-party terms apply to the corresponding
-components. Nothing in these terms limits rights you may have under applicable
-third-party licenses.
-
-11. No Professional Advice
-
-Ledger Desktop is software. It does not provide legal, tax, accounting,
-investment, payroll, banking, audit, or professional advice. You are responsible
-for reviewing transactions, reports, filings, and records with appropriate
-professional judgment and qualified advisors.
-
-12. Disclaimer of Warranties
-
-LEDGER DESKTOP IS PROVIDED "AS IS" AND "AS AVAILABLE." TO THE MAXIMUM EXTENT
-PERMITTED BY LAW, ROBERT MCMURRY AND ANY LATER MCMURRY SOFTWARE PUBLISHING
-ENTITY DISCLAIM ALL WARRANTIES, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE,
-INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
-TITLE, NON-INFRINGEMENT, ACCURACY, AVAILABILITY, SECURITY, AND ERROR-FREE
-OPERATION.
-
-13. Limitation of Liability
-
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, ROBERT MCMURRY AND ANY LATER MCMURRY
-SOFTWARE PUBLISHING ENTITY WILL NOT BE LIABLE FOR LOST PROFITS, LOST REVENUE,
-LOST DATA, LOST GOODWILL, BUSINESS INTERRUPTION, COST OF SUBSTITUTE SOFTWARE OR
-SERVICES, ACCOUNTING ERRORS, TAX OR PAYROLL CONSEQUENCES, CLIENT CLAIMS, OR
-ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE
-DAMAGES ARISING FROM OR RELATED TO LEDGER DESKTOP, EVEN IF ADVISED OF THE
-POSSIBILITY OF SUCH DAMAGES.
-
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, TOTAL LIABILITY ARISING FROM OR RELATED
-TO LEDGER DESKTOP WILL NOT EXCEED THE AMOUNT YOU PAID FOR YOUR LEDGER DESKTOP
-LICENSE DURING THE TWELVE MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM, OR
-ONE HUNDRED U.S. DOLLARS ($100), WHICHEVER IS GREATER.
-
-14. Termination
-
-Your rights under these terms terminate automatically if you materially violate
-these terms. After termination, you must stop using Ledger Desktop except that
-you may continue using an unmodified copy solely to open your own `.ledger`
-files in read-only mode unless prohibited by law or by a separate written
-agreement.
-
-15. Separate Written Terms
-
-A signed written agreement, invoice terms, purchase terms, trial agreement, or
-commercial license issued by Robert McMurry or a later McMurry Software
-publishing entity may supplement or override these terms for the covered
-license or customer.
-
-16. Governing Law
-
-Unless separate written terms say otherwise, these terms are governed by the
-laws of the State of Tennessee, United States, excluding conflict-of-law rules.
-
-17. Contact
-
-During early testing, contact Robert McMurry through GitHub:
-
-https://github.com/rrmcmurry
+Provider:
+Robert McMurry, doing business as McMurry Software
+Tennessee, United States
+https://mcmurrysoftware.com
